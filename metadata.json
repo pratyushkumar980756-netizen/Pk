@@ -1,0 +1,6 @@
+{
+  "name": "Janta Inter College",
+  "description": "School application for Janta Inter College Mubarak Pur (जनता इंटर कॉलेज मुबारकपुर), Phulpur, Prayagraj featuring school profile, facilities, academic information, student gallery, and contact directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
