@@ -21,3 +21,4 @@ debug.keystore.base64
 *.keystore
 .aistudio/
 .build-outputs/
+push_release.sh
